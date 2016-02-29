@@ -1,7 +1,7 @@
 Problem 5 (Javascript)
 General Q&A
 	1. What is the value of xin var x = 1 + '0';
-	
+
 	2. What is the value of x in var x = a && b || c; when a = 'false', b = 1, c = 0?
 	
 	3. What is a callback?
