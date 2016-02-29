@@ -1,0 +1,17 @@
+Problem 3 (MySQL)
+
+Design a database schema for a simple order management system that describe the
+following entities and their relationships (create as many tables as necessary)
+
+	- products
+		-- has a name
+		-- has a SKU
+		-- has a price
+	- orders
+		-- has a date
+		-- contain products
+		-- belongs to a customer
+	- customer
+		-- has a name
+		-- has an email
+		-- can have many orders

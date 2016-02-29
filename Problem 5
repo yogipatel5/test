@@ -1,0 +1,17 @@
+Problem 5 (Javascript)
+General Q&A
+	1. What is the value of xin var x = 1 + '0';
+	
+	2. What is the value of x in var x = a && b || c; when a = 'false', b = 1, c = 0?
+	
+	3. What is a callback?
+	
+	4. What is callback hell?
+	
+	5. What are anonymous functions?
+	
+	6. Give an example of how to use anonymous functions to limit the scope of code. What other benefits does this provide?
+	
+	7. Write a function that returns the sum of xand ywhen called using f(x, y).
+	
+	8. Write a function that returns the sum of xand ywhen called using f(x)(y).

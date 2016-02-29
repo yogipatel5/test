@@ -1,0 +1,27 @@
+Problem 1 (PHP)
+
+Given the following input values from a form, create a method or methods to validate the
+input based on their requirements. Throw an exception if any data is invalid.
+
+	- name
+		-- is required
+		-- must be first name AND last name
+
+	email
+		-- is required
+		-- is a valid email address
+
+	twitter
+		-- is optional
+		-- is a twitter handle
+			--- begins with an @symbol
+			--- can only contain alphanumeric characters and an underscore
+			--- maximum 15 characters in length
+
+The input data will be in the following format:
+
+	$input = [
+	'name' => '...',
+	'email' => '...',
+	'twitter' => '...'
+	];

@@ -1,0 +1,11 @@
+Problem 2 (PHP)
+
+Given an array of $employeeswith their names and age:
+	$employees = array('Travis'=>28, 'Yogi'=>100, 'Ankur'=>5);
+
+Generate a JSON formatted output with the names ordered alphabetically in the
+following format:
+	{
+	"name": age,
+	...
+	}

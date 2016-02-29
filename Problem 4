@@ -1,0 +1,10 @@
+Problem 4 (MySQL, PHP)
+
+Use the schema from problem 2 and:
+
+	- create a query for getting the total number of products and the total value for all
+	orders made on the current date and the same query for orders made on the day
+	before the current date (create a sample data in the database to test your solution)
+	
+	- create a simple php application to connect to the database and perform the
+	queries
